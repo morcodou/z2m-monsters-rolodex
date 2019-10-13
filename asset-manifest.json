@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/z2m-monsters-rolodex/static/css/main.c3f3cd4e.chunk.css",
+    "main.js": "/z2m-monsters-rolodex/static/js/main.7f85fc1e.chunk.js",
+    "main.js.map": "/z2m-monsters-rolodex/static/js/main.7f85fc1e.chunk.js.map",
+    "runtime-main.js": "/z2m-monsters-rolodex/static/js/runtime-main.4b2620cc.js",
+    "runtime-main.js.map": "/z2m-monsters-rolodex/static/js/runtime-main.4b2620cc.js.map",
+    "static/js/2.fe5198a4.chunk.js": "/z2m-monsters-rolodex/static/js/2.fe5198a4.chunk.js",
+    "static/js/2.fe5198a4.chunk.js.map": "/z2m-monsters-rolodex/static/js/2.fe5198a4.chunk.js.map",
+    "index.html": "/z2m-monsters-rolodex/index.html",
+    "precache-manifest.5424b365cad11942c7255d8a48c6e0d2.js": "/z2m-monsters-rolodex/precache-manifest.5424b365cad11942c7255d8a48c6e0d2.js",
+    "service-worker.js": "/z2m-monsters-rolodex/service-worker.js",
+    "static/css/main.c3f3cd4e.chunk.css.map": "/z2m-monsters-rolodex/static/css/main.c3f3cd4e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b2620cc.js",
+    "static/js/2.fe5198a4.chunk.js",
+    "static/css/main.c3f3cd4e.chunk.css",
+    "static/js/main.7f85fc1e.chunk.js"
+  ]
+}

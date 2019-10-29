@@ -9,3 +9,9 @@ https://social.msdn.microsoft.com/Forums/vstudio/en-US/3f700fe7-4c43-42cd-86e8-f
 https://weblogs.asp.net/owscott/web-farms-and-telling-which-node-is-handling-a-request-in-asp-net
 
 https://totaluptime.com/kb/getting-the-original-client-ip-with-x-forwarded-for-in-your-code/
+
+
+https://github.com/quilljs/quill/issues/2277
+https://github.com/quilljs/quill/issues/109
+https://stackoverflow.com/questions/39949496/insert-a-link-in-a-specific-index-in-quill-editor
+https://stackoverflow.com/questions/51125342/implement-custom-editor-for-quill-blot?rq=1

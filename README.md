@@ -15,3 +15,7 @@ https://github.com/quilljs/quill/issues/2277
 https://github.com/quilljs/quill/issues/109
 https://stackoverflow.com/questions/39949496/insert-a-link-in-a-specific-index-in-quill-editor
 https://stackoverflow.com/questions/51125342/implement-custom-editor-for-quill-blot?rq=1
+
+
+https://github.com/quilljs/quill/issues/1981
+https://github.com/quilljs/quill/issues/2436

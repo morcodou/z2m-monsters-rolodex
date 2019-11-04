@@ -19,3 +19,12 @@ https://stackoverflow.com/questions/51125342/implement-custom-editor-for-quill-b
 
 https://github.com/quilljs/quill/issues/1981
 https://github.com/quilljs/quill/issues/2436
+
+
+
+quill 2
+https://github.com/quilljs/quill/issues/2485
+https://searchcode.com/codesearch/view/92993047/
+https://stackoverflow.com/questions/51125342/implement-custom-editor-for-quill-blot
+https://quilljs.com/guides/building-a-custom-module/
+https://github.com/quilljs/quill/issues/1520
